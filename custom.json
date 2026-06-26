@@ -1,11 +1,11 @@
 [
   {
     "id": "siliconflow-aff",
-    "title": "SiliconFlow 硅基流动",
+    "title": "SiliconFlow",
     "url": "https://cloud.siliconflow.cn/i/votJKqZO",
-    "description": "限时免费AI大模型平台，提供 DeepSeek-OCR、腾讯 Hunyuan-MT-7B 等热门模型，不定期上新免费模型。中国知名AI模型服务商，支持API调用。",
+    "description": "Free AI model platform with DeepSeek-OCR, Tencent Hunyuan-MT-7B and more. Rotating free models, API access, China's leading AI model provider.",
     "category": "free-services",
-    "tags": ["AI", "LLM", "免费", "API", "DeepSeek", "Hunyuan"],
+    "tags": ["AI", "LLM", "free", "API", "DeepSeek", "Hunyuan"],
     "source": "custom",
     "icon": "https://www.siliconflow.cn/logo-new.svg",
     "featured": true
